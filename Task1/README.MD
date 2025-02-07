@@ -44,4 +44,4 @@ See the number's classification and fun fact displayed on the screen.
 
 ## API END-pOINT
 
-[Api-Endpoint](https://24f4plfe8f.execute-api.us-east-1.amazonaws.com/api/classify-number?number=70)
+URL : https://24f4plfe8f.execute-api.us-east-1.amazonaws.com/api/classify-number?number=70
