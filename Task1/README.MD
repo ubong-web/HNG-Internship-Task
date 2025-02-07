@@ -41,3 +41,7 @@ See the number's classification and fun fact displayed on the screen.
 3. Python (for the Lambda function)
 4. Numbers API
 5. HTML, CSS, and JavaScript for the frontend
+
+## API END-pOINT
+
+[Api-Endpoint](https://24f4plfe8f.execute-api.us-east-1.amazonaws.com/api/classify-number?number=70)
