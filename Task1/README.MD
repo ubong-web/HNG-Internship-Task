@@ -23,3 +23,21 @@ Analyzing the number's properties (e.g., prime, perfect, or Armstrong).
 1. lambda.py: The main Lambda function script that handles number classification and external API integration.
 2. Frontend: Simple HTML and JavaScript-based interface for user interaction.
 3. AWS API Gateway: Manages API requests and routes them to the Lambda function.
+
+## How to Run the Project:
+### Deploy the Lambda Function:
+Upload lambda.py to your AWS Lambda instance.
+Configure the Lambda function to trigger via API Gateway.
+
+### Frontend Setup:
+Open the frontend HTML file in a browser.
+Enter a number and submit.
+### View Results:
+See the number's classification and fun fact displayed on the screen.
+
+## Technologies Used:
+1. AWS Lambda
+2. API Gateway
+3. Python (for the Lambda function)
+4. Numbers API
+5. HTML, CSS, and JavaScript for the frontend
