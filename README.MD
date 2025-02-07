@@ -1,1 +1,1 @@
-## This is a document take of all the task carried out in the HNG12 Intership
+## This is a document take of all the task carried out in the HNG12 Intership.
