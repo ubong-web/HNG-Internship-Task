@@ -4,7 +4,7 @@ let result = document.getElementById("result");
 
 searchBtn.addEventListener("click", () => {
   let number = numberInp.value;
-  let finalURL = `https://xkocwrpl3npeulgiexe2zgkipq0hbuqn.lambda-url.us-east-1.on.aws/?number=${number}`;
+  let finalURL = `https://24f4plfe8f.execute-api.us-east-1.amazonaws.com/api/classify-number?number=${number}`;
   
   console.log(finalURL);
 
